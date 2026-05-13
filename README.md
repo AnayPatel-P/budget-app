@@ -4,12 +4,6 @@ A personal finance desktop app built with **Electron**, **React**, and **TypeScr
 
 ---
 
-## Screenshots
-
-> _Add screenshots here once you have the app running — drag images into this section on GitHub._
-
----
-
 ## Features
 
 - **Dashboard** — summary cards for total income, expenses, and net balance, plus a bar chart of spending by category
@@ -134,6 +128,3 @@ The SQLite database (`budget.db`) is stored in your OS app-data directory — it
 
 ---
 
-## License
-
-MIT — do whatever you like with it.
